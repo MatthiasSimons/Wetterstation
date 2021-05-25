@@ -15,7 +15,7 @@ ort = "Euskirchen"
 #ort = "Muetzenich"
 #ort = "Schmidt"
 
-api_key = "hx4Kost4kKLMu-9-op7_8HdBTOMJVSljQShm7W_fJsb"
+api_key = "***"
 post = "https://maker.ifttt.com/trigger/"+ort+"/with/key/hx4Kost4kKLMu-9-op7_8HdBTOMJVSljQShm7W_fJsb"
 
 station = network.WLAN(network.STA_IF)
