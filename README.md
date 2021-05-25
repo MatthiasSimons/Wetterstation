@@ -1,3 +1,3 @@
 # Wetterstation
- IoT Project @ Fachhochschule Aachen__ 
- Programmierung und Informationsverarbeitung__
+ IoT Project @ Fachhochschule Aachen  
+ Programmierung und Informationsverarbeitung  
